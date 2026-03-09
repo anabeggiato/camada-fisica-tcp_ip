@@ -32,7 +32,9 @@ Foi enviada uma **Simple PDU do PC0 para o PC2** utilizando o modo de simulaçã
 
 ### Simulação da propagação da PDU
 
+O vídeo pode ser encontrado em:
 <video src="./assets/simulacao_hub.mp4" controls width="100%"></video>
+<code>./assets/simulacao_hub.mp4</code>
 
 Durante a simulação foi possível observar que o hub replica o sinal para todas as portas.
 
@@ -66,7 +68,9 @@ Foi enviada novamente uma **Simple PDU do PC0 para o PC2**.
 
 ### Simulação da PDU com switch
 
+O vídeo pode ser encontrado em:
 <video src="./assets/simulacao_switch.mp4" controls width="100%"></video>
+<code>./assets/simulacao_switch.mp4</code>
 
 Foi possível observar que o switch encaminha o quadro apenas para a porta correspondente ao dispositivo de destino.
 
